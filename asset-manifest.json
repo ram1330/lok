@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lok/static/css/main.5315904d.css",
+    "main.js": "/lok/static/js/main.6369fe2d.js",
+    "index.html": "/lok/index.html",
+    "main.5315904d.css.map": "/lok/static/css/main.5315904d.css.map",
+    "main.6369fe2d.js.map": "/lok/static/js/main.6369fe2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5315904d.css",
+    "static/js/main.6369fe2d.js"
+  ]
+}

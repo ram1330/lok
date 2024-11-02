@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5315904d.css","mappings":"AAAA,EACE,sBACF,CACA,KACE,YAAa,CACb,QACF","sources":["styles/AddTodo.css"],"sourcesContent":["*{\n  font-family: sans-serif;\n}\n.add {\n  display: flex;\n  gap: 40px;\n}"],"names":[],"sourceRoot":""}
